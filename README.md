@@ -1,0 +1,1 @@
+# McGill-Stock-Pitch
