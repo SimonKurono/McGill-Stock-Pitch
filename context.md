@@ -107,7 +107,6 @@ Result:
 ---
 
 # 3. Modeling Approach
-
 ## 3.1 Chosen Method
 
 Use a **Black-Scholes-style approximation** to estimate the value of development flexibility.
