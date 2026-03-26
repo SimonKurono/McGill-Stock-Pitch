@@ -1,6 +1,6 @@
 # McGill Stock Pitch: Skeena Real Options Valuation
 **Link to deck**: https://drive.google.com/file/d/1YZKUVQItDEmYmFgGo_YtcLDSRz-3QrAh/view?usp=sharing and [`SKE_Pitch_Deck.pdf`](./SKE_Pitch_Deck.pdf)
-
+**Link to Model**: https://docs.google.com/spreadsheets/d/1MBIdMbClGtRW02CdPVe5KgcLT_cLjyU8/edit?usp=sharing&ouid=117316930616149647827&rtpof=true&sd=true and [`SKE_MODEL.xlsx`](./SKE_MODEL.xlsx)
 A compact valuation project that estimates the development flexibility of Skeena Gold & Silver (TSX: `SKE`) using a Black-Scholes-style real options framework.
 
 ## Overview
