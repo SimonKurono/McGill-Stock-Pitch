@@ -4,3 +4,9 @@
 ./venv
 venv
 env
+
+# Data folders
+nlp/data/
+__pycache__/
+*.pyc
+.DS_Store
