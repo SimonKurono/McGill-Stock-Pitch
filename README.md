@@ -2,7 +2,7 @@
 
 [![SKE Deck](https://github.com/user-attachments/assets/1413f936-5f9b-4020-b0d4-75415e3f088a)](https://drive.google.com/file/d/1YZKUVQItDEmYmFgGo_YtcLDSRz-3QrAh/view?usp=sharing)
 
-**Link to deck**: [`SKE_Pitch_Deck.pdf`](https://drive.google.com/file/d/1YZKUVQItDEmYmFgGo_YtcLDSRz-3QrAh/view?usp=sharing) (also see [`SKE_DEMO_DECK.pdf`](./SKE_DEMO_DECK.pdf))
+**Link to deck**: [`SKE_DEMO_DECK.pdf`](./SKE_DEMO_DECK.pdf)
 
 **Link to Model**: https://docs.google.com/spreadsheets/d/1MBIdMbClGtRW02CdPVe5KgcLT_cLjyU8/edit?usp=sharing&ouid=117316930616149647827&rtpof=true&sd=true and [`SKE_MODEL.xlsx`](./SKE_MODEL.xlsx)
 
