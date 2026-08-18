@@ -2,7 +2,7 @@
 
 [![SKE Deck](https://github.com/user-attachments/assets/1413f936-5f9b-4020-b0d4-75415e3f088a)](https://drive.google.com/file/d/1YZKUVQItDEmYmFgGo_YtcLDSRz-3QrAh/view?usp=sharing)
 
-**Link to deck**: [`SKE_Pitch_Deck.pdf`](https://drive.google.com/file/d/1YZKUVQItDEmYmFgGo_YtcLDSRz-3QrAh/view?usp=sharing)
+**Link to deck**: [`SKE_Pitch_Deck.pdf`](https://drive.google.com/file/d/1YZKUVQItDEmYmFgGo_YtcLDSRz-3QrAh/view?usp=sharing) (also see [`SKE_DEMO_DECK.pdf`](./SKE_DEMO_DECK.pdf))
 
 **Link to Model**: https://docs.google.com/spreadsheets/d/1MBIdMbClGtRW02CdPVe5KgcLT_cLjyU8/edit?usp=sharing&ouid=117316930616149647827&rtpof=true&sd=true and [`SKE_MODEL.xlsx`](./SKE_MODEL.xlsx)
 
@@ -32,8 +32,8 @@ The analysis is implemented in [`black-scholes.ipynb`](./black-scholes.ipynb) an
 ## Repository Structure
 
 - [`black-scholes.ipynb`](./black-scholes.ipynb): main analysis
-- [`context.md`](./context.md): modeling context and economic framing
 - [`requirements.txt`](./requirements.txt): Python dependencies
+- [`nlp/finsentinel/`](./nlp/finsentinel): a separate project, FinSentinel — see below
 
 ## Quick Start
 
@@ -55,3 +55,7 @@ jupyter notebook black-scholes.ipynb
 - This is an approximation framework for pitch/investment discussion, not a production valuation engine.
 - Results are highly sensitive to volatility, capex, timing, and commodity-price assumptions.
 - Update Section 2 inputs in the notebook before re-running scenarios.
+
+## FinSentinel
+
+This repo also includes [`nlp/finsentinel/`](./nlp/finsentinel), a Streamlit app that classifies and scores the sentiment of financial documents (10-K/Q filings, MD&A, equity research, news) using Claude for document understanding and FinBERT for sentiment scoring. It was built to support this same SKE research process. See [`nlp/finsentinel/README.md`](./nlp/finsentinel/README.md) for setup and usage.
