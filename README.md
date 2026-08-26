@@ -3,7 +3,7 @@ This repository contains the following 4 documents:
 1. ['Slide Deck'](./SKE_DEMO_DECK.pdf)
 2. ['NAV Model'](./SKE_MODEL.xlsx)
 3. ['Real Option Valuation Notebook'](./black-scholes.ipynb)
-4. ['FinBERT NLP Pipeline'](./nlp/finsentinel) (Watch demo [here](https://drive.google.com/file/d/1QNsvRXIuYhcDe121b6JF65_DT76QKQJU/view)
+4. ['FinBERT NLP Pipeline'](./nlp/finsentinel) (Watch demo [here](https://drive.google.com/file/d/1QNsvRXIuYhcDe121b6JF65_DT76QKQJU/view))
 
 [![SKE Deck](https://github.com/user-attachments/assets/1413f936-5f9b-4020-b0d4-75415e3f088a)](https://drive.google.com/file/d/1YZKUVQItDEmYmFgGo_YtcLDSRz-3QrAh/view?usp=sharing)
 
