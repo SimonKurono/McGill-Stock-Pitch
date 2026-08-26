@@ -1,4 +1,9 @@
-# McGill Stock Pitch: Skeena Real Options Valuation
+# McGill Stock Pitch: TSX:SKE
+This repository contains the following 4 documents:
+1. ['Slide Deck'](./SKE_DEMO_DECK.pdf)
+2. ['NAV Model'](./SKE_MODEL.xlsx)
+3. ['Real Option Valuation Notebook'](./black-scholes.ipynb)
+4. ['FinBERT NLP Pipeline'](./nlp/finsentinel)
 
 [![SKE Deck](https://github.com/user-attachments/assets/1413f936-5f9b-4020-b0d4-75415e3f088a)](https://drive.google.com/file/d/1YZKUVQItDEmYmFgGo_YtcLDSRz-3QrAh/view?usp=sharing)
 
@@ -33,7 +38,7 @@ The analysis is implemented in [`black-scholes.ipynb`](./black-scholes.ipynb) an
 
 - [`black-scholes.ipynb`](./black-scholes.ipynb): main analysis
 - [`requirements.txt`](./requirements.txt): Python dependencies
-- [`nlp/finsentinel/`](./nlp/finsentinel): a separate project, FinSentinel — see below
+- [`nlp/finsentinel/`](./nlp/finsentinel): NLP Pipeline: FinSentinel — see below
 
 ## Quick Start
 
