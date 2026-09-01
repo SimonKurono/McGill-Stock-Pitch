@@ -1,4 +1,4 @@
-# FinSentinel — Financial Document Sentiment Analyzer
+# FinSentinel: Financial Document Sentiment Analyzer
 
 Upload equity research reports, 10-K/Q filings, MD&A sections, and news articles.
 FinSentinel classifies, filters, and chunks each document using Claude, then runs
@@ -27,12 +27,12 @@ streamlit run app.py
 
 ## Pipeline
 
-1. **Ingestion** — extracts raw text per file type
-2. **Classification** (Claude) — identifies document type, filters unsuitable docs
-3. **Chunking** (Claude) — extracts semantically meaningful passages
-4. **Token enforcement** — splits any chunk exceeding 512 BERT tokens
-5. **FinBERT inference** — scores each chunk: positive / negative / neutral
-6. **Aggregation** — computes per-document and portfolio-level metrics
+1. **Ingestion**: extracts raw text per file type
+2. **Classification** (Claude): identifies document type, filters unsuitable docs
+3. **Chunking** (Claude): extracts semantically meaningful passages
+4. **Token enforcement**: splits any chunk exceeding 512 BERT tokens
+5. **FinBERT inference**: scores each chunk: positive / negative / neutral
+6. **Aggregation**: computes per-document and portfolio-level metrics
 
 ## Output
 
