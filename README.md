@@ -1,5 +1,5 @@
 # McGill Stock Pitch: TSX:SKE
-This repository contains the following 4 documents:
+This repository contains 4 parts:
 1. ['Slide Deck'](./SKE_DEMO_DECK.pdf)
 2. ['NAV Model'](./SKE_MODEL.xlsx)
 3. ['Real Option Valuation Notebook'](./black-scholes.ipynb)
